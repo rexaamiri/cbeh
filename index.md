@@ -3,19 +3,13 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# A brief introduction to survival analysis
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+{% include figure.html img="sa.jpg" alt="intro image here" caption="Kaplan-Meier curve" width="75%" %}
 
 *Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+*See also:* [survival analysis](https://link.com/).
 
 {% include toc.html %}
 

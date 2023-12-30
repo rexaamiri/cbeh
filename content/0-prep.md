@@ -1,7 +1,6 @@
 ---
-title: Introduction
-nav: Prep
-topics: Survival Analysis
+title: A brief introduction to survival analysis
+nav: Introduction
 ---
 
 > `code highlight`,

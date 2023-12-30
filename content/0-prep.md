@@ -7,6 +7,11 @@ nav: Introduction
 > 
 > [link](https://github.com/join).
 
+| **A** | **B** | **C** |
+|-------|-------|-------|
+|     1 |     0 |     2 |
+|     2 |     2 |     2 |
+
 
 {% capture text %}
 1. Have a [GitHub](https://github.com) account.

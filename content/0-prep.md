@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav: Pre
+nav: Prep
 topics: Survival Analysis
 ---
 

@@ -8,17 +8,12 @@ nav: Introduction
 > [link](https://github.com/join).
 
 
-<div class="datatable-begin"></div>
+| A | B | C |
+|---|---|---|
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
-
-<div class="datatable-end"></div>
-
+| 1 | 0 | 2 |
+| 2 | 2 | 2 |
+| 1 | 2 | 3 |
 
 
 {% capture text %}

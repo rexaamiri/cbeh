@@ -9,35 +9,46 @@ nav: Introduction
 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ae4j{background-color:#efefef;border-color:#000000;font-family:"Times New Roman", Times, serif !important;text-align:right;
+  vertical-align:top}
+.tg .tg-yprg{border-color:#000000;font-family:"Times New Roman", Times, serif !important;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-5yna{border-color:#000000;font-family:"Times New Roman", Times, serif !important;text-align:right;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">**A**</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">**B**</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">**C**</span></th>
+    <th class="tg-yprg">A</th>
+    <th class="tg-yprg">B</th>
+    <th class="tg-yprg">C</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dvpl">1</td>
-    <td class="tg-dvpl">0</td>
-    <td class="tg-dvpl">2</td>
+    <td class="tg-ae4j">1</td>
+    <td class="tg-ae4j">0</td>
+    <td class="tg-ae4j">2</td>
   </tr>
   <tr>
-    <td class="tg-dvpl">2</td>
-    <td class="tg-dvpl">2</td>
-    <td class="tg-dvpl">2</td>
+    <td class="tg-5yna">2</td>
+    <td class="tg-5yna">2</td>
+    <td class="tg-5yna">2</td>
+  </tr>
+  <tr>
+    <td class="tg-ae4j">1</td>
+    <td class="tg-ae4j">2</td>
+    <td class="tg-ae4j">3</td>
   </tr>
 </tbody>
 </table>
+
+
+
 
 
 

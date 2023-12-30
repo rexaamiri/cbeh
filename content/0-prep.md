@@ -8,11 +8,11 @@ nav: Introduction
 > [link](https://github.com/join).
 
 
-| A | B | C |
-|---|---|---|
-| 1 | 0 | 2 |
-| 2 | 2 | 2 |
-| 1 | 2 | 3 |
+| A 	| B 	| C 	|
+|---	|---	|---	|
+| 1 	| 0 	| 2 	|
+| 2 	| 2 	| 2 	|
+| 1 	| 2 	| 3 	|
 
 
 {% capture text %}

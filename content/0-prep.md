@@ -7,10 +7,12 @@ nav: Introduction
 > 
 > [link](https://github.com/join).
 
-| **A** | **B** | **C** |
-|-------|-------|-------|
-|     1 |     0 |     2 |
-|     2 |     2 |     2 |
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 1    | w    | 1w   |
+| d    | c    | f    |
+| d    | ds   | vc   |
 
 
 {% capture text %}

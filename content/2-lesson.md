@@ -1,12 +1,7 @@
 ---
-title: Get Started
-nav: Start
-topics: Template; Basic Config
+title: NICE TSDs about survival analysis
+nav: NICE TSDs
 ---
-
-The [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
-This [demo site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages.
-The content pages serve as documentation and examples to copy from.
 
 {% capture text %}
 1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code (make sure you are logged into GitHub!).
@@ -18,14 +13,8 @@ The content pages serve as documentation and examples to copy from.
 6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
 {% include card.html header="Overview" text=text %}
 
-## Basic Configuration
 
-Edit the "_config.yml" to get your workshop website set up with the basics such as `title` and `author`.
-Check comments (denoted by `#` in YAML) in the file for all the options!
-
-Once you have edited the "_config.yml", you are ready to start editing your content pages.
-All your content is written in Markdown in the "content" folder.
-See [Create Lesson Content]({{ '/content/3-lesson.html' | relative_url }}) for details and options.
+See [Create Lesson Content]({{ '/content/2-lesson.html' | relative_url }}) for details and options.
 
 ## Style customization [optional]
 
